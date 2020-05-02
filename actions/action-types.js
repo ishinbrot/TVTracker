@@ -1,0 +1,3 @@
+export const ADD_SHOW = 'ADD_SHOW'
+export const DELETE_SHOW = 'DELETE_SHOW'
+export const MARK_SHOW_AS_WATCHED = 'MARK_SHOW_AS_WATCHED'
